@@ -5,9 +5,10 @@ Write-ups of work completed on HTB
 
 # Challenges
 ### Web
-
+- Looking Glass
 ### Reverse
 
 ### Crypto 
 
 ### Pwn
+- Racecar
